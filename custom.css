@@ -1,0 +1,95 @@
+body {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.red {
+  border: 1px solid red;
+}
+
+.green {
+  border: 1px solid green;
+}
+
+.banner {
+  height: 900px;
+  width: 800px;
+  background-image: url(https://hinhgaixinh.com/wp-content/uploads/2022/05/ribi-sachi.jpg);
+  padding: 20px;
+}
+.banner .about-sign-in {
+  height: 80px;
+  width: 100%;
+  text-align: right;
+}
+.banner .about-sign-in .about,
+.banner .about-sign-in .sign-in {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 7px;
+  text-transform: uppercase;
+  padding: 10px 15px;
+}
+.banner .about-sign-in .sign-in {
+  margin-right: 60px;
+  margin-left: 25px;
+  border-radius: 20px;
+  border: 1px solid green;
+}
+.banner .about-sign-in .logo {
+  background: url(/HTML/HTML1/) center center no-repeat;
+  margin-top: 40px;
+  height: 100px;
+}
+.banner .about-sign-in .text {
+  text-align: center;
+  margin-top: 30px;
+}
+.banner .about-sign-in .text span {
+  color: green;
+}
+.banner .about-sign-in .text img {
+  height: 30px;
+  width: 30px;
+}
+.banner .about-sign-in .btn-start-now {
+  text-align: center;
+}
+.banner .about-sign-in .btn-start-now button {
+  text-transform: uppercase;
+  padding: 10px 15px;
+  border: 1px solid green;
+  border-radius: 20px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+.banner .about-sign-in .content-center {
+  height: 50px;
+  border: 1px solid red;
+}
+.banner .about-sign-in .content-center .left,
+.banner .about-sign-in .content-center .right,
+.banner .about-sign-in .content-center .center {
+  width: 33%;
+  display: inline-block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.banner .about-sign-in .content-center .left span,
+.banner .about-sign-in .content-center .right span,
+.banner .about-sign-in .content-center .center span {
+  display: block;
+  font-size: 20px;
+  width: 30px;
+  height: 30px;
+}
+.banner .about-sign-in .content-center .span {
+  display: block;
+  font-size: 25px;
+  margin-top: 5px;
+}
+.banner .about-sign-in .content-center img {
+  height: 30px;
+  width: 30px;
+}
